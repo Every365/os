@@ -27,4 +27,11 @@
 ------
 ## Day 2 2022/7/2
 今日学习完《rust圣经》中基础入门并做完相应作业  
-[Rust语言圣经(Rust教程 Rust Course和配套练习)](https://course.rs/about-book.html)
+[Rust语言圣经(Rust教程 Rust Course和配套练习)](https://course.rs/about-book.html)  
+
+
+------
+## Day 3 2022/7/3
+今日学习完《rust圣经》中前五章并做完相应作业。
+[Rust语言圣经(Rust教程 Rust Course和配套练习)](https://course.rs/about-book.html)  
+今日完成lab0.
