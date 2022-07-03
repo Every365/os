@@ -1,6 +1,7 @@
 # os 
 
-- daily study：每日学习笔记
+- daily study：每日学习笔记  
+- image：过程截图
 
 目前处于第一阶段，第一环节学习Rust语言
 
