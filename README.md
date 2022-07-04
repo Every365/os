@@ -39,4 +39,4 @@
 
 ------  
 ## Day 4 2022/7/4  
-由于shell和git不扎实,文件重定向啥的都忘了，学习下[git全家桶]（https://www.bilibili.com/video/BV1x7411H7wa?spm_id_from=333.337.search-card.all.click&vd_source=e4d77f526a0a13adbbe36506bd75e2e8）
+由于shell和git不扎实,文件重定向啥的都忘了，学习下[git全家桶](https://www.bilibili.com/video/BV1x7411H7wa?spm_id_from=333.337.search-card.all.click&vd_source=e4d77f526a0a13adbbe36506bd75e2e8)
