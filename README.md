@@ -113,5 +113,6 @@
 
 
 ------ 
-## Day 15 2022/7/15今日学习完《rust圣经》中有相应作业的章节并完成Rustlings    
+## Day 15 2022/7/15  
+今日学习完《rust圣经》中有相应作业的章节并完成Rustlings      
 [Rust语言圣经(Rust教程 Rust Course和配套练习)](https://course.rs/about-book.html)
