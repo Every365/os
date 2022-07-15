@@ -40,3 +40,78 @@
 ------  
 ## Day 4 2022/7/4  
 由于shell和git不扎实,文件重定向啥的都忘了，学习下[git全家桶](https://www.bilibili.com/video/BV1x7411H7wa?spm_id_from=333.337.search-card.all.click&vd_source=e4d77f526a0a13adbbe36506bd75e2e8)
+
+
+
+------  
+## Day 5 2022/7/5
+休息出去玩了
+
+
+------  
+## Day 6 2022/7/6
+
+
+明天考科目一，刷一天题
+
+
+------  
+## Day 7 2022/7/7
+
+考科目一
+
+
+
+------  
+## Day 8 2022/7/8
+继续学习[git全家桶](https://missing-semester-cn.github.io/)
+
+
+
+------  
+## Day 9 2022/7/9
+作业太多了，赶作业
+
+
+
+------  
+## Day 10 2022/7/10
+学校小学期上课分配任务，完成任务
+
+
+
+
+------  
+## Day 11 2022/7/11
+学习rust语言，翻到了[一位前辈的rust学习博客](https://cherryyang05.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Rust/page/2/)
+
+
+
+
+
+------ 
+## Day 12 2022/7/12
+今日学习完《rust圣经》中前十章并做完相应作业。
+[Rust语言圣经(Rust教程 Rust Course和配套练习)](https://course.rs/about-book.html)
+
+
+
+
+------ 
+## Day 13 2022/7/13
+今日学习完《rust圣经》中前十五章并做完相应作业。
+[Rust语言圣经(Rust教程 Rust Course和配套练习)](https://course.rs/about-book.html)
+
+
+
+
+
+------ 
+## Day 14 2022/7/14
+休息
+
+
+
+------ 
+## Day 15 2022/7/15今日学习完《rust圣经》中有相应作业的章节并完成Rustlings    
+[Rust语言圣经(Rust教程 Rust Course和配套练习)](https://course.rs/about-book.html)
