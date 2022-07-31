@@ -1,7 +1,5 @@
 # os 
 
-- daily study：每日学习笔记  
-- image：过程截图
 
 目前处于第一阶段，第一环节学习Rust语言
 
@@ -114,5 +112,40 @@
 
 ------ 
 ## Day 15 2022/7/15  
-今日学习完《rust圣经》中有相应作业的章节并完成Rustlings      
+今日学习完《rust圣经》中有相应作业的章节并完成Rustlings (已完成，但仓库还没改成public）     
 [Rust语言圣经(Rust教程 Rust Course和配套练习)](https://course.rs/about-book.html)
+
+
+
+------ 
+## Day 27 2022/7/28  
+中间因为有比赛有学校小学期课程，进度暂停了，不过8月就没小学期课程了。  
+今日做lab0-1,lab1实验.  
+并看讲解，[训练营rcore tutorial视频讲解](训练营rcore tutorial和rustlings视频讲解)
+
+
+------ 
+## Day 28 2022/7/29  
+做lab1和lab2  
+并看讲解，[训练营rcore tutorial视频讲解](训练营rcore tutorial和rustlings视频讲解)
+
+
+
+------ 
+## Day 29 2022/7/29  
+做lab2  
+并看讲解，[训练营rcore tutorial视频讲解](训练营rcore tutorial和rustlings视频讲解)
+
+
+
+------ 
+## Day 30 2022/7/30 
+做lab3  
+并看讲解，[训练营rcore tutorial视频讲解](训练营rcore tutorial和rustlings视频讲解)
+
+
+
+
+------ 
+## Day 31 2022/7/31 
+lab3完工写报告总结
