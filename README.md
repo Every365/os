@@ -133,7 +133,7 @@
 
 ------ 
 ## Day 29 2022/7/29  
-做lab2  
+做lab2 和lab3 
 并看讲解，[训练营rcore tutorial视频讲解](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md#%E8%AE%AD%E7%BB%83%E8%90%A5rcore-tutorial%E5%92%8Crustlings%E8%A7%86%E9%A2%91%E8%AE%B2%E8%A7%A3)
 
 
@@ -148,4 +148,4 @@
 
 ------ 
 ## Day 31 2022/7/31 
-lab3完工写报告总结
+做lab4，并看讲解，[训练营rcore tutorial视频讲解](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md#%E8%AE%AD%E7%BB%83%E8%90%A5rcore-tutorial%E5%92%8Crustlings%E8%A7%86%E9%A2%91%E8%AE%B2%E8%A7%A3)写第一阶段总结。
