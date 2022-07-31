@@ -126,21 +126,21 @@
 
 ------ 
 ## Day 28 2022/7/29  
-做lab1 
+做lab1和lab2
 并看讲解，[训练营rcore tutorial视频讲解](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md#%E8%AE%AD%E7%BB%83%E8%90%A5rcore-tutorial%E5%92%8Crustlings%E8%A7%86%E9%A2%91%E8%AE%B2%E8%A7%A3)(密码是某位老师名字全拼123）
 
 
 
 ------ 
 ## Day 29 2022/7/29  
-做lab1 和lab2 
+做lab2和lab3 
 并看讲解，[训练营rcore tutorial视频讲解](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md#%E8%AE%AD%E7%BB%83%E8%90%A5rcore-tutorial%E5%92%8Crustlings%E8%A7%86%E9%A2%91%E8%AE%B2%E8%A7%A3)
 
 
 
 ------ 
 ## Day 30 2022/7/30 
-做lab1 和lab2
+做lab3 和lab4
 并看讲解，[训练营rcore tutorial视频讲解](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md#%E8%AE%AD%E7%BB%83%E8%90%A5rcore-tutorial%E5%92%8Crustlings%E8%A7%86%E9%A2%91%E8%AE%B2%E8%A7%A3)
 
 
@@ -148,4 +148,4 @@
 
 ------ 
 ## Day 31 2022/7/31 
-做lab2和lab3，并看讲解，[训练营rcore tutorial视频讲解](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md#%E8%AE%AD%E7%BB%83%E8%90%A5rcore-tutorial%E5%92%8Crustlings%E8%A7%86%E9%A2%91%E8%AE%B2%E8%A7%A3)写第一阶段总结。
+做lab4和lab5，并看讲解，[训练营rcore tutorial视频讲解](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md#%E8%AE%AD%E7%BB%83%E8%90%A5rcore-tutorial%E5%92%8Crustlings%E8%A7%86%E9%A2%91%E8%AE%B2%E8%A7%A3)写第一阶段总结。
